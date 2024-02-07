@@ -2,7 +2,10 @@
 
 This is a simple batch script that runs the `netstat` command with the `-a` and `-b` options.
 
+# YOU CAN USE THE .EXE TO RUN THIS APPLICATION
+
 # CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
+
 
 ## Usage
 
