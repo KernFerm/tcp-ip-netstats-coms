@@ -2,6 +2,8 @@
 
 This is a simple batch script that runs the `netstat` command with the `-a` and `-b` options.
 
+# CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
+
 ## Usage
 
 1. Open a command prompt.
