@@ -1,3 +1,6 @@
+- ##   there are no issues with this game , if you want to FORK it GO FORK IT!!!!
+- ##   make account to FORK REPO
+
 # TCP/IP NetStat Command 
 
 This is a simple batch script that runs the `netstat` command with the `-a` and `-b` options.
