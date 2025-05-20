@@ -52,3 +52,6 @@ This script is designed to run on **Windows systems** with the `netstat` command
 ### ⚠️ Disclaimer
 
 Please use this script **responsibly**. It's not recommended to run this script on machines where you don't have permission to view **active network connections** 🔒.
+
+
+- [https://discord.gg/FxJd3PxXbc](https://discord.gg/FxJd3PxXbc)
